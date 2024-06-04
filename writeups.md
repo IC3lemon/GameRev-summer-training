@@ -1,6 +1,6 @@
 # `dicequest`
 
-The player is a dice who can kill other small blue dices. \
+The player is a red dice who can kill other small blue dices. \
 There is a big blue dice which is a shop. \
 If you stay alive long enough bunch of dragons spawn and the player dies. \
 ![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/ff9052d0-ad64-4a78-b75f-2592c2e625c2)
