@@ -1,15 +1,15 @@
+***
+<br><br><br>
 # `dicequest`
 
 The player is a red dice who can kill other small blue dices. \
 There is a big blue dice which is a shop. \
 If you stay alive long enough bunch of dragons spawn and the player dies. \
-![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/ff9052d0-ad64-4a78-b75f-2592c2e625c2)
 
 This is what the shop looks like : \
 ![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/9392904e-a0f0-4ec0-8511-94df8ff3e582)
 
-
-So I figured we have to somehow buy these items \
+So I figured we have to somehow buy the dragon taming thing \
 I figured why not just make bro rich so he can buy it all.
 
 Had a hard time finding where the player's money was stored, since it was just 0 by default. \
