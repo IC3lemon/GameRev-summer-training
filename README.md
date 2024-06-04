@@ -7,4 +7,3 @@
 ***
 
 ### [`writeups`](https://github.com/IC3lemon/GameRev-summer-training/blob/main/writeups.md)
-### [`files`](https://github.com/IC3lemon/GameRev-summer-training/tree/main/challs)
