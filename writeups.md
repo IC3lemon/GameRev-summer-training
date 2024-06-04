@@ -38,3 +38,29 @@ they started arranging in a pattern and yes \
 ```
 DICE{YOUR_FLAG_IS_NOT_IN_ANOTHER_CASTLE}
 ```
+<br><br><br>
+***
+<br><br><br>
+
+# `no way out`
+
+UNITY CHALL LESGO \
+game was op honestly, well made. \
+The player has an inventory with a bunch of weapons, \
+he is in an enclosed place, outside of which there is a huge aah flag \
+The objective is clear and on top of the screen, \
+*escape and get the flag* \
+ok 
+
+Immediately opened AssemblyCSharp.dll with dnspy \
+And set the jump value to 50 \
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/62ef15b2-2198-4c1d-90eb-7edbb9411c44)
+
+*(I set it to 1k first, but realised thats too high when I launched into oblivion)*
+
+Then I compiled, launched the game, and jumped tf outta that place \
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/52e95225-cefb-47f4-b7db-405000674da3)
+
+```
+picoCTF{WELCOME_TO_UNITY!!}
+```
