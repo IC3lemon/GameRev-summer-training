@@ -68,7 +68,7 @@ picoCTF{WELCOME_TO_UNITY!!}
 ***
 <br><br><br>
 
-# `Lost In the dungeon 1 & 2`
+# `Lost In the dungeon 1`
 
 
 unity chall again because I cant get enough \
@@ -130,7 +130,12 @@ and yes, they didnt move
 nite{Eb1c_9aM3R}
 ```
 
-### Part-2
+<br><br><br>
+***
+<br><br><br>
+
+# `Lost In the dungeon 2`
+
 
 Now the next flag. \
 My first thought was it was off the map \
