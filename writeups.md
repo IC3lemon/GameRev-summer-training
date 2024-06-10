@@ -187,5 +187,15 @@ and harshith also said this : \
 ![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/40ad7f8d-a332-451d-a48d-b24959b66a36)
 
 So to get up there somehow, my first thought was to increase jump. \
-So I opened up fps_Gameplay.dll in dnspy and did this : \
+So I opened up fps_Gameplay.dll in dnspy, found the Player Controller Script and did this : \
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/37fa39b6-58fa-41f3-b283-0441295ca6c6)
+
+then I got on top of there and yes : \
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/0c74c9ca-8169-41ad-b6d7-05ba5f10e116)
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/7f6b7ae4-af36-41e9-b650-2e5340400809)
+
+```
+bcactf{7H3_14w_of_c0S1nEs_4b723470334e}
+```
+
 
