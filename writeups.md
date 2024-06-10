@@ -172,4 +172,20 @@ nite{L3vel_100_Mafia_b055}
 ```
 
 
+<br><br><br>
+***
+<br><br><br>
+
+# `FPS Frenzy`
+
+Like the name, the game was a basic fps shooter game. \
+A pretty good game actually. Fortunately its a Unity game.\
+Initially had no idea where flag was, I increased the health and killed all enemies. \
+but no flag on winning. \
+there was something prominent on the map tho. \
+and harshith also said this : \
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/40ad7f8d-a332-451d-a48d-b24959b66a36)
+
+So to get up there somehow, my first thought was to increase jump. \
+So I opened up fps_Gameplay.dll in dnspy and did this : \
 
