@@ -10,21 +10,19 @@ This is what the shop looks like : \
 ![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/9392904e-a0f0-4ec0-8511-94df8ff3e582)
 
 So I figured we have to somehow buy the dragon taming thing \
-I figured why not just make bro rich so he can buy it all.
+I figured why not just make bro rich so he can buy it all. \
+the idea was mainly inspired from : https://gamehacking.academy/pages/1/05/
 
-Had a hard time finding where the player's money was stored, since it was just 0 by default. \
-Too many search instances with the value 0.
-
+But wesnoth (the game shown in the link)was a Windows game on which Cheat Engine worked \
 I went looking for something like cheat engine for linux \
-where I could look up the binary's status as I was playing \
-To maybe searchup, not 0 but any value that changes to say 30 \
-(the money i would have after I kill a few cubes)
 
 And that's when I found my bro PINCE \
 https://github.com/korcankaraokcu/PINCE
 
-So I ran PINCE, killed a few cubes my money changed to 20
-I searched up instances and there was only one \
+So I ran PINCE, first scanned for 0 \
+killed a few cubes my money changed to 20 \
+then next scanned for 20 \
+found the variable that changed from 0 - 20 \
 I then set its value to an insane phone number \
 ![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/3519af27-d5f3-4b24-a46a-f0b0db6a38d5)
 
