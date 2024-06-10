@@ -131,10 +131,9 @@ nite{Eb1c_9aM3R}
 ```
 
 <br><br><br>
-***
-<br><br><br>
 
-# `Lost In the dungeon 2`
+
+### Part 2
 
 
 Now the next flag. \
