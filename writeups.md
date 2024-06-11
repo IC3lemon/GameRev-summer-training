@@ -196,3 +196,20 @@ bcactf{7H3_14w_of_c0S1nEs_4b723470334e}
 ```
 
 
+<br><br><br>
+***
+<br><br><br>
+
+# `pwnadventure 3 : Unbearable Revenge`
+
+
+the game was op, this was insane. \
+Couldn't set up server because some issues I faced when setting up server host \
+So I cracked the game on local and decided to exploit it like that as much as I could. 
+
+
+On entering the game the first thing you get is the fireball \
+now, the first thing I noticed was the fireball ran out pretty quickly, \
+I used Cheat Engine, tracked the mana's value and managed to bump it up to an unholy amount \
+infinite mana hack on \
+
