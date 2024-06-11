@@ -207,9 +207,26 @@ the game was op, this was insane. \
 Couldn't set up server because some issues I faced when setting up server host \
 So I cracked the game on local and decided to exploit it like that as much as I could. 
 
+So in the cave u spawn in, there's the fireball u can get \
+and it uses a decent amount of mana, So i instantly booted up CheatEngine \
+foung the mana's variable and set it to an unholy amount \
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/ba386849-f4cb-45c3-b2c0-73fa0a1d2ede)
 
-On entering the game the first thing you get is the fireball \
-now, the first thing I noticed was the fireball ran out pretty quickly, \
-I used Cheat Engine, tracked the mana's value and managed to bump it up to an unholy amount \
-infinite mana hack on \
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/3ea2580e-7d0d-42e1-9fc4-15e8ec3b41a6)
 
+I tried bumping up health, it was a hard task, because too many variables kept track of health \
+but then managed to boost it. \
+afterwards, reached the shop where I made my boi rich and bought a revolver \
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/b0dd914e-716c-4927-b8b7-5754fff76a09)
+
+Then I felt a problem with the revolver, it needed to reload \
+that made it annoying honestly \
+I then increased the revolver bullets to an insane amount the same way \
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/a354e80d-6d08-4b1b-936c-1085f414168e)
+
+then I found the bears, it was a cakewalk, shoot them, and the health don't let them kill u either \
+then I roamed around until I found the bears and the quest started, \
+you had to survive for 5 minutes inside the zone while they tried to kill you \
+the bears did insane damage, but the health boost tanked it \
+after the the timer, killed the rest of the bears and got the flag from the chest \
+`they couldn't bear the sight of you`
