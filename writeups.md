@@ -230,3 +230,35 @@ you had to survive for 5 minutes inside the zone while they tried to kill you \
 the bears did insane damage, but the health boost tanked it \
 after the the timer, killed the rest of the bears and got the flag from the chest \
 `they couldn't bear the sight of you`
+
+
+
+<br><br><br>
+***
+<br><br><br>
+
+# `HTB GamePwn : CubeMadness 1`
+
+
+Unity game yes. \
+So when the player spawns, there are cubes nearby and a counter that says how many cubes u got \
+the area you spawn inside has only 6 cubes, and the counter looks like u need to get 20 cubes. \
+Since we got a counter who's value changes by our rate, and it needs to reach a certain value. \
+My CheatEngine radar went bingbing \
+changed the value of cubes counter to 20 and yes
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/218c79c8-e322-4292-8cf2-f5e2bc0f5c61)
+
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/dc6a3932-46b0-47fe-a3f4-8c23356f69f0)
+
+`HTB{CU83_M4DN355_UNM4DD3N3D}`
+
+
+<br><br><br>
+***
+<br><br><br>
+
+# `HTB GamePwn : CubeMadness 2`
+
+There's a sequel aye \
+Same stuff. Get the cubes \
+CheatEngined into getting 20/20 on the counter but no luck \
