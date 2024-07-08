@@ -261,4 +261,41 @@ changed the value of cubes counter to 20 and yes
 
 There's a sequel aye \
 Same stuff. Get the cubes \
-CheatEngined into getting 20/20 on the counter but no luck \
+CheatEngined into getting 20/20 on the counter but no luck. \
+The value did not change on the counter either. \
+After being stuck for a good while I found this : \
+https://www.youtube.com/watch?v=XH4lePNqiHc \
+
+This video alone taught about a bunch of tools, but the main things : \
+- what i was dealing with here was an il2cpp game
+- il2cpp is a scripting backend for unity, its alternate being mono
+- in mono, there are ready scripts which the program reads, compiles and executes
+- in il2cpp, the scripts are generated at runtime, compiled converted to IL then to C++ and run
+
+So there is this thing, il2cpp dumper. \
+U give it a unity il2cpp game and its metadata, il2cpp dumper generates a dummy dll, \
+one that it would have had, had it been a mono game. \
+However I couldn't dump CubeMadness2 il2cpp dumper wasn't working on it \
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/16bd01da-7ae6-41c5-9d03-32e52913a796)
+
+I googled and found that this was happening because the game files were obfuscated. \
+I tried il2cpp dumper on CubeMadness 1 and it worked. \
+There was an alternative way to still get dummy dll in this case too, but I was too lazy to implement that \
+Instead, after a few minutes of watching the changing variables on cheat engine, I noticed something \
+There were a bunch of numbers in memory that were increasing according to score \
+- First were the variables that were equal to the score, but changing them did nothing
+- Second were variables which held values of `48 * score`
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/2fcf3c2b-189e-42a5-ab28-140ff4ad73aa) \
+I tried changing these to `48 * 20` but that did nothing either, seemed to fuck up the counter somehow, but didnt get it to 20/20
+
+Now there was this one other place in memory \
+which held `1337 * score` \
+I set this to `1337 * 20` i.e. `26740` \
+and yes
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/fb489b76-e049-4a7f-9663-42e5c36207c9)
+
+`HTB{08FU5C473D_4ND_UNK0WN}`
+
+<br><br><br>
+***
+<br><br><br>
