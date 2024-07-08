@@ -284,14 +284,16 @@ There was an alternative way to still get dummy dll in this case too, but I was 
 Instead, after a few minutes of watching the changing variables on cheat engine, I noticed something \
 There were a bunch of numbers in memory that were increasing according to score \
 - First were the variables that were equal to the score, but changing them did nothing
-- Second were variables which held values of `48 * score`
+- Second were variables which held values of `48 * score` \
 ![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/2fcf3c2b-189e-42a5-ab28-140ff4ad73aa) \
 I tried changing these to `48 * 20` but that did nothing either, seemed to fuck up the counter somehow, but didnt get it to 20/20
 
 Now there was this one other place in memory \
 which held `1337 * score` \
 I set this to `1337 * 20` i.e. `26740` \
-and yes
+![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/83d49f5c-5af6-4736-992d-6b753579cb76)
+
+and yes \
 ![image](https://github.com/IC3lemon/GameRev-summer-training/assets/150153966/fb489b76-e049-4a7f-9663-42e5c36207c9)
 
 `HTB{08FU5C473D_4ND_UNK0WN}`
